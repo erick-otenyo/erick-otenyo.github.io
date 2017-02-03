@@ -5,10 +5,16 @@
   <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
   <style>
     #map{ height: 100% }
+    #me{
+      position: absolute;
+      z-index: 2000;
+    }
   </style>
 </head>
 <body>
-
+  <div id="me">
+    <h1>Beyond the spatial extent</h1>
+  </div>
   <div id="map"></div>
 
   <script>
