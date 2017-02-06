@@ -34,7 +34,7 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://i2.wp.com/erickotenyo.files.wordpress.com/2017/02/globe_gis.png?ssl=1') no-repeat center center fixed;
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://i2.wp.com/erickotenyo.files.wordpress.com/2017/02/globe_gis.png') no-repeat center center fixed;
   -webkit-background-size:cover;
   background-size: cover;
 }
